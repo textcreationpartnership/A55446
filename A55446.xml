@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Pope's letter to Maddam Cellier in relation to her great sufferings for the Catholick cause, and likewise Maddam Celliers lamentation standing on the pillory, and also the Popes commission to Maddam Celliers, for several places of honour for her so well managing the affair on her part hitherto, and if she receive martirdome by the hereticks, acanonization or saintship among the other holy saints.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55446</idno>
+            <idno type="STC">Wing P2935</idno>
+            <idno type="STC">ESTC R33943</idno>
+            <idno type="EEBO-CITATION">13621662</idno>
+            <idno type="OCLC">ocm 13621662</idno>
+            <idno type="VID">100844</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100844)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1042:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Pope's letter to Maddam Cellier in relation to her great sufferings for the Catholick cause, and likewise Maddam Celliers lamentation standing on the pillory, and also the Popes commission to Maddam Celliers, for several places of honour for her so well managing the affair on her part hitherto, and if she receive martirdome by the hereticks, acanonization or saintship among the other holy saints.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Maddam Celliers lamentation standing on the pillary : has individual caption title.</note>
+                  <note>"Maddam Celliers lamentation ..." is in verse.</note>
+                  <note>Imperfect: pages cropped, faded with ink show-through and loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Parodies.</term>
+               <term>Pillories.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:100844:1" rendition="simple:additions"/>
+            <pb facs="tcp:100844:1" rendition="simple:additions"/>
+            <head>THE POPES LETTER, TO Maddam Cellier In Relation to her great Sufferings <hi>For the Catholick Cauſe,</hi> And likewiſe Maddam <hi>Celliers</hi> Lamentation ſtanding ON THE PILLORY, AND Alſo the Popes Commiſſion to Maddam <hi>Celliers,</hi> for ſeveral pla<g ref="char:EOLhyphen"/>ces of honour for her ſo well managing the Affair on her part hitherto, and if ſhe receive Martirdome by the Hereticks, a Canonization or Saintſhip among the other holy Saints.</head>
+            <opener>
+               <salute>DEAR DAUGHTER,</salute>
+            </opener>
+            <p>HAving Received an Account from the Provincial of the <hi>Jeſuites</hi> reſiding here in <hi>Rome,</hi> how great and glorions an Inſtrument you have been in promo<g ref="char:EOLhyphen"/>ting the Holy-Cauſe, and how very active you have ſhewed your ſelf, and of your great ſufferings almoſt to Martyrdome; I find my ſelf bound to take notice thereof; and to ſend you theſe under the Seal of the <hi>Fiſher,</hi> to encou<g ref="char:EOLhyphen"/>rage your Zeal, and to ſtrengthen and provoke you to go on in ſo righteous a Cauſe. Fear not therefore what man can do unto you: be Bold, Confident, Couragious, faint not under the work; for I have ordered many hands to help you, and to diſpoſe of the Iſſue you ſhall bring into the World. Tho as yet the ſucceſs has not anſwered ours nor
+<pb n="2" facs="tcp:100844:2"/>your Expectations, yet I am glad to find you have ſtill no ſmall hopes of bringing a<g ref="char:EOLhyphen"/>bout your great Deſign, in ſetting up our true Religion, and in pulling down the He<g ref="char:EOLhyphen"/>retical; which is an Attempt as difficult as it is good and meritorious, and therefore you are to make uſe of all manner of ways to bring about ſo great a work. Though ſome Inſtruments have proved falſe and wicked, and are become Traitors to us and the Cauſe, be not troubled ſo long as our Cofers are full, and open, to be imployed for the procuring others; you ſhall not want them nor money for the carrying on what we have ſo fairly begun. We give you therefore leave and authority, both to ſpeak and write in the Church, and to do and ſay what you and they whom we have aſſigned of your Council, ſhall think ſit or convenient; and by the power granted to us in Heaven and Earth, we do authoriſe all you ſhall ſay or publiſh, to be Truth, and do abſolve your Conſcience from all Scruples, though you did believe or know the contrary; for by the unbounded power granted us, as the Head of the Church, we do give you full Abſolution in theſe matters. And for that end, we have ſent Indulgences both for lying and Perjury, free and without the uſual Fees. We have alſo of our great benignity, ſent you a free pardon for all your ſins paſt, from the hour of your Birth, to the day of the date thereof; be they of what Nature or Complexion ſoever; and alſo that you may to the hour of your Death, be as innocent as the Child unborn. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e do alſo ſend you Indulgence for five thouſand years yet to come, and have given order to my dear beloved Sons the Jeſuites, to give you Abſolution for all your Sins whatſoever con<g ref="char:EOLhyphen"/>ſtantly and without Pennance; that you may not want Incouragement or be ſlack in the holy Cauſe. We have alſo <hi>Dear Daughter,</hi> ſent you a blank Commiſſion, to be either <hi>Abbeſs</hi> of any one of the Richeſt <hi>Nunneries</hi> in <hi>England,</hi> when they come into our Hands; which you ſhall chooſe, or think convenient; but if you ſhall prefer Tempo<g ref="char:EOLhyphen"/>ral preferment to Spiritual, I have alſo ſent you a Commiſſion for to create you a Coun<g ref="char:EOLhyphen"/>teſs, under what Title you ſhall chooſe, and twenty thouſand pounds of yearly Rent out of the Eſtates of the Capital <hi>Hereticks,</hi> whom yon ſhall find guilty of the ſame. <hi>And</hi> for a farther additional Honour, and in honourable memory of your former Pro<g ref="char:EOLhyphen"/>feſſions, we Create you <hi>Procureſs</hi> and <hi>Midwife-General,</hi> and a Fee to be received from all of thoſe Profeſſions in <hi>England,</hi> and <hi>Wales,</hi> by you at their firſt admiſſion, they re<g ref="char:EOLhyphen"/>ceiving only their authority from you for the ſame; which we make, confirm and rati<g ref="char:EOLhyphen"/>fie to be legal and authentick. And <hi>Dear Daughter,</hi> that we may yet farther ſtir you up and confirm you in your <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealous work, we do promiſe you an immortal Crown after this Life, and if you ſhould obtain that of Martyrdome among the wicked Hereticks we do promiſe you to ingrave your Name among the other bleſſed Martyrs and Confeſ<g ref="char:EOLhyphen"/>ſors, who have ſuffered by the <hi>Hereticks,</hi> in <hi>England;</hi> and alſo we do further promiſe you <hi>Canonization</hi> or <hi>Saintſhip</hi> among the holy Saints and Martyrs who have lately ſuffer<g ref="char:EOLhyphen"/>ed in <hi>England,</hi> as St. <hi>Coleman,</hi> St. <hi>Ireland,</hi> St. <hi>Gawen</hi> and the reſt; and to be equal in Fame and eſteem with St. <hi>Joan of Arque,</hi> that great Championeſs for the Cauſe that Mall of <hi>Engliſh-Hereticks.</hi> All theſe things conſidered, we hope <hi>Dear Daughter,</hi> that you will ſtrenuouſly endeavour by all manner of ways and means to promote the Cauſe, and not to let your heart fail you, tho your Adverſaries have publiſhed many diſgrace<g ref="char:EOLhyphen"/>ful things of you, while you were a Sinner, but we have already denounce the <hi>Ana<g ref="char:EOLhyphen"/>thausas</hi> againſt them, and have given order to my Sons, the <hi>Dominican Prieſts in England</hi> to make uſe of the ſolemn Rite of Curſing them with <hi>Bell, Book</hi> and <hi>Candle;</hi> and we have alſo pronouneed all they have ſaid, or ſhall ſay againſt you, or that is any way contrary derogatory to your Honour, Reputation, Modeſty, Life or good Name, to be all wicked Lies and abominable invention, malice, and diſpight, and that my dear Sons the <hi>Jeſuites</hi> and <hi>Prieſts</hi> of what Order ſoever, and the <hi>Lay Sons of the Church,</hi> to endea<g ref="char:EOLhyphen"/>vour all they can to make it ſo to be taken and believed. And likewiſe on the other ſide, I do confirm all you ſhall write and publiſh concerning your own Life and Tranſactions, or in Vindication of your Honour, Modeſty and Innocency, to be true and undoubted as the <hi>Goſpel;</hi> and likewiſe all that you ſhall ſay or relate, concerning your Adverſaries, or others, or whatever you ſhall Print or make known to the world by the help or advice of one or more of my dear Sons, to be true Scripture, undoubted and authentick in every Paragraph, Sentence, Line and Word, and that they alſo be<g ref="char:EOLhyphen"/>forementioned, Cauſe it to be believed and taken. We alſo have ordered our Sons, the <hi>Franciſcans,</hi> to preſerve the <hi>Meal-Tub,</hi> in which lay hid the Deſign of the holy
+<pb n="3" facs="tcp:100844:2" rendition="simple:additions"/>Cauſe, among their chiefeſt Reliques, and have alſo beſtowed on it the Authority of doing of Miracles, and that the Meal therein ſhould never be conſumed, though all the <hi>Prieſts</hi> in <hi>England</hi> ſhould make Cakes thereof, every day that ſhall be aſſigned to your <hi>Saint-ſhip;</hi> and we have ordered this Relique to be inſhrin'd, and to be called the <hi>Holy Meal-Tub,</hi> with St. <hi>Colemans Halter,</hi> and that our Sons may have full power and authority to exerciſe <hi>pias, fraudis</hi> or any other manner of deceits, to cauſe the ſame to be believed, and to be had in eſteem and Veneration, and that the ſame be alſo entered in<g ref="char:EOLhyphen"/>to the <hi>Legend</hi> of <hi>Reliquies</hi> and <hi>Miracles.</hi> All this <hi>Dear Daughter,</hi> have we done for your incouragement, and therefore we hope you will proceed in that forward and noto<g ref="char:EOLhyphen"/>rious dexterity, you have hitherto ſhewed for the holy Cauſe, and that you will not be afraid boldly to affront the <hi>Hereticks,</hi> from the greateſt to the leaſt; nor fear what they can be able to do unto you; neither their Priſons, their Whips, Pillories, or Hal<g ref="char:EOLhyphen"/>ters, for we can exalt you above all, and make you live Righteous, Juſt, Holy, and a Saint for ever, notwithſtanding they ſhould Condemn you as Infamous, and Traytreſs to your King and Country. And we do engage to you, if ever we do get up again in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> we will not ſpare the Cocatrices, but cruſh them ſo, they ſhall never more be a<g ref="char:EOLhyphen"/>ble to riſe; we will exerciſe full power and authority, and root out all manner of <hi>He<g ref="char:EOLhyphen"/>reticks</hi> Root and Branch, and will have no pity or commiſeration, but new plant and ſlack that Land with new powers and Forces from abroad, ſo as they ſhall never be able to pull their Necks out of the Yoak we have prepared for them. Therefore <hi>Dear Daughter</hi> fear not to follow the Dictates of my dear and venerable Sons the <hi>Jeſu<g ref="char:EOLhyphen"/>ites,</hi> whom I have ordered to direct, adviſe and inſtruct you from time to time, whoſe careful Inſtructions I deſire you conſtantly to follow, and to go on as you have begun; for the proſperity of theſe your holy and pious undertakings, and for the encouragement of your endeavours, we here ſend you our Fatherly Benediction. From the <hi>Vatican</hi> the firſt of <hi>Auguſt</hi> 1680. Sealed with the Seal of the Fiſher.</p>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>Maddam CELLIERS</hi> LAMENTATION Standing on the PILLORY.</head>
+            <lg>
+               <l>HArk to my Lamentable Ditty,</l>
+               <l>You Pope-lings of both Town and Citty;</l>
+               <l>Of my Sufferings take ſome Pitty,</l>
+               <l>For <hi>Heriticks</hi> aſſault me.</l>
+            </lg>
+            <lg>
+               <l>They do not think that 'tis enough</l>
+               <l>To ſee me with a Wooden Ruff,</l>
+               <l>For Writing Treaſon and ſuch ſtuff;</l>
+               <l>But they with Stones muſt palt me.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:100844:3" rendition="simple:additions"/>
+               <l>But let them fling and fling again,</l>
+               <l>Though I ſchriek out, and feel no pain;</l>
+               <l>Whilſt on me Showers of Stones like Rain,</l>
+               <l>Did make my Armour rattle.</l>
+            </lg>
+            <lg>
+               <l>For like a Championeſs I came</l>
+               <l>Not arm'd with Modeſty, and Shame,</l>
+               <l>But claſp'd about with Armed Frame,</l>
+               <l>Prepared for the Battel.</l>
+            </lg>
+            <lg>
+               <l>Upon my Head I had a Caſe,</l>
+               <l>A Blinding Board before my Face,</l>
+               <l>Such as before Wild Cows they place,</l>
+               <l>To keep my Noſe from <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uffit.</l>
+            </lg>
+            <lg>
+               <l>The Shed kept of the falling Storm,</l>
+               <l>The Dirt and Stones did me no harm,</l>
+               <l>I had againſt them got a Charm;</l>
+               <l>And laught whilſt they did Cuff it.</l>
+            </lg>
+            <lg>
+               <l>Apples and Eggs and Marrow-bones,</l>
+               <l>Dirt and Dung and pibble-ſtones,</l>
+               <l>The wicked Rogues flung for the nonce,</l>
+               <l>Which I put in my Pocket.</l>
+            </lg>
+            <lg>
+               <l>For Stones I Veneration had,</l>
+               <l>Lov'd them till <hi>Dangerfield</hi> grew mad,</l>
+               <l>Thoſe given by many a Luſty Lad;</l>
+               <l>I cheriſh'd under Placket.</l>
+            </lg>
+            <lg>
+               <l>But theſe hard Stones I carry home,</l>
+               <l>With Brick-Batty, Tiles, and lumps of Loom,</l>
+               <l>Which ſhall eſt ſoon be ſent to <hi>Rome,</hi>
+               </l>
+               <l>There to be Sanctify'd.</l>
+            </lg>
+            <lg>
+               <l>For I do know my Father Pope</l>
+               <l>Will lay them up with <hi>Coleman</hi>'s Rope,</l>
+               <l>To be a Saint I ſtill do hope</l>
+               <l>Though by the <hi>Pox</hi> I dyed.</l>
+            </lg>
+            <lg>
+               <l>A Fart for all the Rogues can do,</l>
+               <l>I to the Cauſe will ſtill prove true,</l>
+               <l>And to my own dear Meal Tub too;</l>
+               <l>If I come off alive.</l>
+            </lg>
+            <lg>
+               <l>In ſpite of <hi>Richardſon</hi> and Fate,</l>
+               <l>All <hi>Hereticks</hi> I ſtill will hate,</l>
+               <l>And if Plots thrive again will prate;</l>
+               <l>And new Print my Narrative.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>D Mallet,</hi> 1680.</p>
+            <pb facs="tcp:100844:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
